@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d0c10ec1-1288-4154-9a03-18279710acd6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../creational/PrototypePattern/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../design principles/SingleResponsibilityPrinciple/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral/CommandPattern/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../behavioral/CommandPattern/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral/MemontoPattern/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../behavioral/MemontoPattern/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral/ObserverPattern/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../behavioral/ObserverPattern/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral/ObserverPattern2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../behavioral/ObserverPattern2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral/StatePattern/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../behavioral/StatePattern/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../creational/AbstractFactoryPattern/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../creational/AbstractFactoryPattern/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../creational/BuilderPattern/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../creational/BuilderPattern/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../creational/FactoryMethodPattern/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../creational/FactoryMethodPattern/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../creational/FactoryPattern/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../creational/FactoryPattern/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../creational/ObjectPoolPattern/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../creational/ObjectPoolPattern/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../creational/PrototypePattern/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../creational/PrototypePattern/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../creational/PrototypePattern/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../creational/PrototypePattern/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../creational/SingletonPattern/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../creational/SingletonPattern/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FlyweightPattern/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FlyweightPattern/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../design principles/LooseCouplingPrinciple/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../design principles/LooseCouplingPrinciple/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../design principles/SingleResponsibilityPrinciple/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../design principles/SingleResponsibilityPrinciple/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../design principles/SingleResponsibilityPrinciple/src/EmailServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../design principles/SingleResponsibilityPrinciple/src/EmailServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../design principles/SingleResponsibilityPrinciple/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../design principles/SingleResponsibilityPrinciple/src/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>KomponentFacade</find>
+      <find>BirSınıf</find>
+      <find>test</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/MyComponent/FacadeImpl.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/MyComponent/MyClass.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/MyComponent/FacadeFactory.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/MyComponent/ComponentFacade.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Main.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="1eW2beobiEXg0iMhM8x0QP7JDcb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556449672343" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../adapter pattern/ClassAdapterPattern" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d0c10ec1-1288-4154-9a03-18279710acd6" name="Default Changelist" comment="" />
+      <created>1556445784189</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1556445784189</updated>
+      <workItem from="1654165988377" duration="637000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

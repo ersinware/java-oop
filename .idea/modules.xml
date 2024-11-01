@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/design patterns/creational/AbstractFactoryPattern/AbstractFactoryPattern.iml" filepath="$PROJECT_DIR$/design patterns/creational/AbstractFactoryPattern/AbstractFactoryPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/design patterns/structural/BridgePattern/BridgePattern.iml" filepath="$PROJECT_DIR$/design patterns/structural/BridgePattern/BridgePattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/design patterns/creational/BuilderPattern/BuilderPattern.iml" filepath="$PROJECT_DIR$/design patterns/creational/BuilderPattern/BuilderPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/design patterns/structural/adapter pattern/ClassAdapterPattern/ClassAdapterPattern.iml" filepath="$PROJECT_DIR$/design patterns/structural/adapter pattern/ClassAdapterPattern/ClassAdapterPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/design patterns/behavioral/CommandPattern/CommandPattern.iml" filepath="$PROJECT_DIR$/design patterns/behavioral/CommandPattern/CommandPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/design patterns/structural/CompositePattern/CompositePattern.iml" filepath="$PROJECT_DIR$/design patterns/structural/CompositePattern/CompositePattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/design patterns/structural/DecoratorPattern/DecoratorPattern.iml" filepath="$PROJECT_DIR$/design patterns/structural/DecoratorPattern/DecoratorPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/design patterns/structural/FacadePattern/FacadePattern.iml" filepath="$PROJECT_DIR$/design patterns/structural/FacadePattern/FacadePattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/design patterns/creational/FactoryMethodPattern/FactoryMethodPattern.iml" filepath="$PROJECT_DIR$/design patterns/creational/FactoryMethodPattern/FactoryMethodPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/design patterns/creational/FactoryPattern/FactoryPattern.iml" filepath="$PROJECT_DIR$/design patterns/creational/FactoryPattern/FactoryPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/design patterns/structural/FlyweightPattern/FlyweightPattern.iml" filepath="$PROJECT_DIR$/design patterns/structural/FlyweightPattern/FlyweightPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InterfaceExample/InterfaceExample.iml" filepath="$PROJECT_DIR$/InterfaceExample/InterfaceExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/design principles/LooseCouplingPrinciple/LooseCouplingPrinciple.iml" filepath="$PROJECT_DIR$/design principles/LooseCouplingPrinciple/LooseCouplingPrinciple.iml" />
+      <module fileurl="file://$PROJECT_DIR$/design patterns/behavioral/MemontoPattern/MemontoPattern.iml" filepath="$PROJECT_DIR$/design patterns/behavioral/MemontoPattern/MemontoPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/design patterns/structural/adapter pattern/ObjectAdapterPattern/ObjectAdapterPattern.iml" filepath="$PROJECT_DIR$/design patterns/structural/adapter pattern/ObjectAdapterPattern/ObjectAdapterPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/design patterns/creational/ObjectPoolPattern/ObjectPoolPattern.iml" filepath="$PROJECT_DIR$/design patterns/creational/ObjectPoolPattern/ObjectPoolPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/design patterns/behavioral/ObserverPattern/ObserverPattern.iml" filepath="$PROJECT_DIR$/design patterns/behavioral/ObserverPattern/ObserverPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/design patterns/behavioral/ObserverPattern2/ObserverPattern2.iml" filepath="$PROJECT_DIR$/design patterns/behavioral/ObserverPattern2/ObserverPattern2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OverrideInsideAnonymousInnerClass/OverrideInsideAnonymousInnerClass.iml" filepath="$PROJECT_DIR$/OverrideInsideAnonymousInnerClass/OverrideInsideAnonymousInnerClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/design patterns/creational/PrototypePattern/PrototypePattern.iml" filepath="$PROJECT_DIR$/design patterns/creational/PrototypePattern/PrototypePattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/design principles/SingleResponsibilityPrinciple/SingleResponsibilityPrinciple.iml" filepath="$PROJECT_DIR$/design principles/SingleResponsibilityPrinciple/SingleResponsibilityPrinciple.iml" />
+      <module fileurl="file://$PROJECT_DIR$/design patterns/creational/SingletonPattern/SingletonPattern.iml" filepath="$PROJECT_DIR$/design patterns/creational/SingletonPattern/SingletonPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/design patterns/behavioral/StatePattern/StatePattern.iml" filepath="$PROJECT_DIR$/design patterns/behavioral/StatePattern/StatePattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SuperMethodAndInheritance/SuperMethodAndInheritance.iml" filepath="$PROJECT_DIR$/SuperMethodAndInheritance/SuperMethodAndInheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/oop.iml" filepath="$PROJECT_DIR$/.idea/oop.iml" />
+    </modules>
+  </component>
+</project>

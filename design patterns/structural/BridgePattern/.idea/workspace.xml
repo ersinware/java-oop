@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6ed7d54c-9c25-4211-b0af-4c84a4628ce9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../creational/PrototypePattern/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DecoratorPattern/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../design principles/SingleResponsibilityPrinciple/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral/CommandPattern/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../behavioral/CommandPattern/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral/MemontoPattern/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../behavioral/MemontoPattern/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral/ObserverPattern/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../behavioral/ObserverPattern/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral/ObserverPattern2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../behavioral/ObserverPattern2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioral/StatePattern/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../behavioral/StatePattern/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../creational/AbstractFactoryPattern/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../creational/AbstractFactoryPattern/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../creational/BuilderPattern/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../creational/BuilderPattern/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../creational/FactoryMethodPattern/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../creational/FactoryMethodPattern/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../creational/FactoryPattern/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../creational/FactoryPattern/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../creational/ObjectPoolPattern/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../creational/ObjectPoolPattern/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../creational/PrototypePattern/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../creational/PrototypePattern/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../creational/PrototypePattern/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../creational/PrototypePattern/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../creational/SingletonPattern/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../creational/SingletonPattern/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CompositePattern/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CompositePattern/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DecoratorPattern/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DecoratorPattern/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FacadePattern/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FacadePattern/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FlyweightPattern/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FlyweightPattern/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../adapter pattern/ClassAdapterPattern/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../adapter pattern/ClassAdapterPattern/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../adapter pattern/ClassAdapterPattern/src/MyAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../adapter pattern/ClassAdapterPattern/src/MyAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../adapter pattern/ObjectAdapterPattern/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../adapter pattern/ObjectAdapterPattern/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../design principles/LooseCouplingPrinciple/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../design principles/LooseCouplingPrinciple/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../design principles/SingleResponsibilityPrinciple/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../design principles/SingleResponsibilityPrinciple/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../design principles/SingleResponsibilityPrinciple/src/EmailServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../design principles/SingleResponsibilityPrinciple/src/EmailServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../design principles/SingleResponsibilityPrinciple/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../design principles/SingleResponsibilityPrinciple/src/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/Main.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Implementations/Producer.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Implementations/RedProducer.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Factories/GreenFactory.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Factories/RedFactory.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Notebook.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Product.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Pencil.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Implementations/GreenProducer.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectId" id="1eY3WucelfgSpqRbWHkgqDRYPs7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556387065599" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.gutterIcons" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="BridgePattern" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6ed7d54c-9c25-4211-b0af-4c84a4628ce9" name="Default Changelist" comment="" />
+      <created>1556299717258</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1556299717258</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
